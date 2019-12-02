@@ -1,0 +1,1 @@
+Exception details: <b>{{ $result['exception_message'] }}</b>
